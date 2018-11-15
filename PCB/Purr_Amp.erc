@@ -1,0 +1,21 @@
+ERC report (10/1/2017 12:41:51 PM, Encoding UTF8 )
+
+***** Sheet /
+
+***** Sheet /Power Amplifier/
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (167.64 mm,78.74 mm): Pin 2 (Input) of component IC1 is unconnected.
+ErrType(3): Pin connected to some others pins but no pin to drive it
+    @ (35.56 mm,54.61 mm): Pin 1 (Power input) of component #PWR08 is not driven (Net 26).
+
+***** Sheet /Microcontroller/
+ErrType(3): Pin connected to some others pins but no pin to drive it
+    @ (68.58 mm,40.64 mm): Pin 2 (Power input) of component U1 is not driven (Net 27).
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (138.43 mm,55.88 mm): Pin 8 (Input) of component J4 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (138.43 mm,38.10 mm): Pin 1 (Bidirectional) of component J4 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (54.61 mm,34.29 mm): Pin 1 (Passive) of component C16 is unconnected.
+
+ ** ERC messages: 6  Errors 0  Warnings 6

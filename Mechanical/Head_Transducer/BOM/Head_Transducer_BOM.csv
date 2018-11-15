@@ -1,0 +1,20 @@
+Description,Part #,Ref. Des.,Distributor,Qty,Link
+Transducer Housing,Main_Body.stl,,3D Print 0.1mm PETG,1,
+Transducer Saddle,Saddle.stl,,3D Print 0.1mm PETG,1,
+Core Spacer,Spacer_0p125.stl,,3D Print 0.1mm PETG,2,
+Pin Clip,Pin_Clip.stl,,3D Print 0.1mm PETG,2,
+Flexure,Flexure.stl,,3D Print 0.1mm PETG,2,
+"Spacer, Center Stackup, 3/4"" od x 1/4"" id x 1/2"" thick, 416 Stainless Steel",N/A,,Custom,2,
+"Heat Set Insert, 0-80 Thread",93365A102,,McMaster-Carr,6,https://www.mcmaster.com/93365a102
+"Heat Set Insert, M3 Thread",94180A331,,McMaster-Carr,2,https://www.mcmaster.com/94180a331
+0-80 Screw,97763A312,,McMaster-Carr,6,https://www.mcmaster.com/97763a312
+6-32 UNC Screw,97763A141,,McMaster-Carr,2,https://www.mcmaster.com/97763a141
+M3 Screw,92095A177,,McMaster-Carr,2,https://www.mcmaster.com/92095a177
+"Hex L-Key, 0.035”",7122A12,,McMaster-Carr,1,https://www.mcmaster.com/7122a12
+"Round Standoff, 1/4” x 1.75”, 6-32 UNC Tap, Aluminum",36-1855-ND ,,DigiKey,1,https://www.digikey.com/product-detail/en/keystone-electronics/1855/36-1855-ND/303694
+"Magnet, Neodymium, 3/4"" od x 1/4"" id x 1/2"" thick, Grade N42",RC48,,K&J Magnetics,1,https://www.kjmagnetics.com/proddetail.asp?prod=RC48
+"Magnet Wire, 30 gauge",,,,100ft,
+"Copper Foil, Adhesive Backed",,,,,
+"18 Gauge Silicone Wire, Pair",,,,6ft,
+Epoxy,,,,1,
+Fabric Pins,,,,4,
